@@ -10,5 +10,5 @@ secondary = -b - (math.sqrt(delta))
 result1 = primary / (2 * a)
 result2 = secondary / (2 * a)
 
-print(f"x1 = {result1}")
-print(f"x2 = {result2}")
+print(f"x = {result1}")
+print(f"y = {result2}")
