@@ -11,4 +11,4 @@ result1 = primary / (2 * a)
 result2 = secondary / (2 * a)
 
 print(f"x = {result1}")
-print(f"y = {result2}")
+print(f"x2 = {result2}")
